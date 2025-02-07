@@ -16,7 +16,7 @@ const SaglikYasamRehberi = () => {
             variants={SlideLeft(0.8)}
             whileInView={"animate"}
             initial="initial"
-            className="text-center lg:text-left lg:pr-16 backdrop-blur-lg bg-opacity-20 p-6 lg:p-8 rounded-lg shadow-xl"
+            className="text-center lg:text-left lg:pr-16 backdrop-blur-lg bg-opacity-20 p-6 lg:p-8 rounded-lg shadow-xl w-96 relative lg:left-0"
           >
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black drop-shadow-md">
               Sağlıklı Yaşamınızı Güçlendirin
@@ -29,7 +29,7 @@ const SaglikYasamRehberi = () => {
             </button>
           </motion.div>
           <div className="col-span-2">
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 relative left-16">
               <motion.div
                 variants={SlideRight(0.2)}
                 whileInView={"animate"}
