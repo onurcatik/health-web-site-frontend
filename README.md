@@ -1,28 +1,10 @@
-
-
-
 # Health Center
 
 This project is the frontend for the Health Center application, built using React and Vite. It leverages Tailwind CSS for styling and PostCSS for processing styles. The project structure is designed to be scalable and maintainable, with reusable components organized into individual folders.
 
-## Table of Contents
-
-- [Health Center](#health-center)
-  - [Table of Contents](#table-of-contents)
-  - [Project Overview](#project-overview)
-  - [Project Structure](#project-structure)
-  - [Project Structure](#project-structure-1)
-  - [Tech Stack](#tech-stack)
-  - [Installation](#installation)
-  - [Running the Project](#running-the-project)
-  - [Available Scripts](#available-scripts)
-  - [Contributing](#contributing)
-
 ## Project Overview
 
 The Health Center frontend provides a modern, responsive interface for managing health center information and services. It is built with a focus on performance and developer experience.
-
-## Project Structure
 
 ## Project Structure
 
