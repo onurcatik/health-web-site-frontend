@@ -29,7 +29,7 @@ const SaglikYasamRehberi = () => {
             </button>
           </motion.div>
           <div className="col-span-2">
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 relative left-16">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 relative left-0 md:left-24 ">
               <motion.div
                 variants={SlideRight(0.2)}
                 whileInView={"animate"}
